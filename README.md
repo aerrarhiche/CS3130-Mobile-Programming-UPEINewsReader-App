@@ -1,3 +1,7 @@
+This originally a assignment 2 from UPEI in the Android class (CS3130).
+The assignment description is below.
+
+
 # A2 UPEI News Reader
 
 **Deadline: March 11, 4pm**
