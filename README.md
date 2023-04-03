@@ -146,18 +146,3 @@ Above and Beyond: 1 pt
 
 
 Total: 10 pts
-
-
-# Submission
-
-- add your android studio project as a folder titled A2 to this repository and push to Github before the deadline.
-
-Your directory structure should be as follows, where A2 is your android studio project containing your solution app:
-
-```ascii  
-repository_base
- |
- ---README.md
- ---resources/
- ---A2/
-```
